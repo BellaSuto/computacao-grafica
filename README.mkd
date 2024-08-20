@@ -68,5 +68,3 @@ Configuração para iniciar os projetos de computação gráfica com OpenGL!
     "-lglu32",
     "-lglew32"
 ]
-
-3. Se tudo der certo, um cubo vermelho giratório aparecerá!
